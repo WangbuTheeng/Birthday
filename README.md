@@ -112,4 +112,4 @@ This project is created with love and is free to use for personal purposes.
 
 ---
 
-Created with ❤️ for Nupur Khadgi 
+Created with ❤️ for Nupur Khadgi
